@@ -1,0 +1,45 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    max-width: 40%;
+}
+
+header{
+    background-color: #f7efda;
+    color: brown;
+}
+
+nav>a{
+    color:  #f7efda;
+    background-color: brown;
+    padding: 1rem;
+    font-weight: 800;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+header img{
+    height: 10rem;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+header{ 
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 3rem;
+}
+
+h1{
+    font-size: 232%;
+}
+
+.navy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -10rem;
+}
